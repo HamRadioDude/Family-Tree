@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Sean K - Family Tree</string>
+    <string name="Timm">Timm Klechak Image</string>
+    <string name="Cindy">Cindy Klechak Image</string>
+    <string name="aaron">Aaron Klechak Image</string>
+    <string name="Colin">Colin Klechak Image</string>
+    <string name="Sean">Sean Klechak Image</string>
+    <string name="Oliver">Oliver Klechak Image</string>
+    <string name="Buddy">Buddy Dog  Image</string>
+    <string name="Frank">Frank Beneventi Image</string>
+    <string name="Alma">Alma Klechak Image</string>
+    <string name="title_activity_dad">dad</string>
+    <string name="title_activity_mom">mom</string>
+    <string name="title_activity_aaron">aaron</string>
+    <string name="title_activity_colin">colin</string>
+    <string name="title_activity_sean">sean</string>
+    <string name="oliverImg">Oliver Klechak Image</string>
+
+    <string name="titleDad">Timm Klechak - "Grumpy" (Father)</string>
+    <string name="titleMom">Cindy Klechak (Mother) </string>
+    <string name="titleAaron">Aaron Klechak (Brother)</string>
+    <string name="title_activity_alma">alma</string>
+    <string name="title_activity_oliver">oliver</string>
+    <string name="titleColin">Colin Klechak (Brother)</string>
+    <string name="title_activity_colin2">colin2</string>
+    <string name="titleSean">Sean Klechak (ME)</string>
+    <string name="titleOliver">Oliver Klechak (Nephew) </string>
+    <string name="titleAlma">Alma Encinas - Sister In law</string>
+
+    <string name="oliverDesc">Born on Memorial Day, I\'m tired too Buddy.</string>
+</resources>
